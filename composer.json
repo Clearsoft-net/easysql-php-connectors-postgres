@@ -40,5 +40,6 @@
         "psr-4": {
             "Clearsoft\\EasySQL\\Connectors\\Postgres\\Tests\\": "tests/"
         }
-    }
+    },
+    "abandoned": "clearsoft/easysql-connectors"
 }
